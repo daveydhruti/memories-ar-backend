@@ -1,13 +1,5 @@
 # MemoriesAR Backend
-Backend for MemoriesAR – a React-based scrapbooking application with Augmented Reality like features. 
-
-## Tech Stack
-- Node.js, Express.js
-- JavaScript
-- MySQL (previously MongoDB)
-- Firebase Authentication
-- SendGrid
-- Postman
+Backend for MemoriesAR – a React-based scrapbooking application with Augmented Reality-like features. Developed as a team coursework project. 
 
 ## Features
 - User authentication using Firebase Authentication
@@ -16,6 +8,15 @@ Backend for MemoriesAR – a React-based scrapbooking application with Augmented
 - MySQL database for persistent storage (migrated from MongoDB)
 - Email notifications via SendGrid
 - API testing and validation using Postman
+- AR-like camera filter
+
+## Tech Stack
+- Node.js, Express.js
+- JavaScript
+- MySQL (previously MongoDB)
+- Firebase Authentication
+- SendGrid
+- Postman
 
 ## Contributers 
 - dhd2000 - Myself (old account)
