@@ -1,0 +1,39 @@
+{
+  "name": "memoriesarbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^6.9.3",
+    "@sendgrid/mail": "^7.7.0",
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "encoding": "^0.1.13",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "firebase": "^9.17.1",
+    "firebase-admin": "^11.5.0",
+    "firebase-functions": "^4.1.1",
+    "form-data": "^4.0.0",
+    "formidable-serverless": "^1.1.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "otp-generator": "^4.0.1",
+    "socket.io": "^4.6.1",
+    "uuid-v4": "^0.1.0",
+    "xhr2": "^0.2.1"
+  }
+}
